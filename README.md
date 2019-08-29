@@ -1,3 +1,2 @@
 # hello-world
-Hello World 
-A repository for testing.
+A basic hello world repsoitory for testing purposes.
